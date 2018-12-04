@@ -1,9 +1,13 @@
 # CricketPlayerInformation
 This project is cricket player information. 
 It is a part of cricket software like cricbuzz. 
-A cricket software bears many kinds of part.  
-Something like that live score, schedule, news, series, stories, teams, videos, photos, ranking and more.
-Making a full cricket software we have must knowing different kinds of programming language and we have taken more time. 
-But In this time I am know only c programming language and there is no more time in my hand also It is not possible to create a full cricket software using only this language. Inshaallah in future, I will develop this project using different programming language such as java and future I will build up a full cricket software. 
+This software bears many kinds of part.  
+like that live score, schedule, news, series, stories, teams, videos, photos, ranking and more.
+A user can see the batsman information and bowling information.
+A user can also see the batsman and bowler's statistics.
+An admin can update any kinds of player's information.
+An admin can delete any kinds of player's information.
+An admin must needed to registered. Otherwise he can not perform his work properly.
+
 
 
