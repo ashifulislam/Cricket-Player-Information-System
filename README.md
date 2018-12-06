@@ -19,10 +19,16 @@ It is a c project. As a result to complete my projects i needed to use Code Bloc
 2. See the batsman and bowlwer information
 3. See the player's statistics
 4. Search any player by his name or team name
+## History
+I completed this project when i was in 3rd semester.
+To complete my project i took 4 month.
+I did not need to any cost to completed my project.
+## Contributing codes
+Any and all contributions to the project are welcome.
+Cricket Player Informationis used across the world primarily by organizations with a sports purpose so you can have real impact!
+## License
+Cricket Player Information is released  A Quick Guide to GPLv3 version.
 
-Admin can update any kinds of player's information.
-Admin can delete any kinds of player's information.
-Admin must needed to registered. Otherwise he can not perform his work properly.
 
 
 
