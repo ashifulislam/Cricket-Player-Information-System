@@ -1,15 +1,15 @@
 # Project Title
 Cricket Player Information System
-# Getting Started
+## Getting Started
 This project is cricket player information. 
 It is a part of cricket software like cricbuzz. 
 This software bears many kinds of part.  
 like that live score, schedule, news, series, stories, teams, videos, photos, ranking and more.
 A user can see the batsman information and bowling information.
 A user can also see the batsman and bowler's statistics.
-# Prerequisites
+## Prerequisites
 It is a c project.As a result to complete my projects i needed to use Code Blocks IDE.
-# Installation
+## Installation
 1.First of all i was going to official code blocks website that is http://www.codeblocks.org/
 2.Next step was going to download options.
 3.Then i had completed download code bolocks for based my computer configuration.
