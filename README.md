@@ -14,6 +14,11 @@ It is a c project.As a result to complete my projects i needed to use Code Block
 2.Next step was going to download options.
 3.Then i had completed download code bolocks for based my computer configuration.
 4.Finally i discovered all the installment process and accept license aggrement.
+## Usage
+1.Go to home page
+2.See the batsman and bowlwer information
+3.See the player's statistics
+4.Search any player by his name or team name
 
 Admin can update any kinds of player's information.
 Admin can delete any kinds of player's information.
