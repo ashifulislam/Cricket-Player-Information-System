@@ -16,9 +16,10 @@ It is a project that was created by c programming language. As a result to compl
 4. Finally i discovered all the installment process and accept license aggrement
 ## Usage
 1. Go to home page
-2. See the batsman and bowler information
-3. See the player's statistics
-4. Search any player by his name or team name
+2. See the batsman and bowler information from "batsman and bowler profile" option
+3. See the player's statistics from "See player statistics" option
+4. Search any player by his name or team name from "Player search" option
+5. Give comments after seeing information from "Comments" option
 ## History
 I completed this project when i was in 3rd semester.
 To complete my project i took 4 month.
@@ -26,8 +27,6 @@ I did not need any cost to complete my project.
 ## Contributing codes
 Any and all contributions to the project are welcome.
 Cricket Player Informationis used across the world primarily by organizations with a sports purpose so you can have real impact!
-## License
-Cricket Player Information is released  A Quick Guide to GPLv3 version.
 
 
 
