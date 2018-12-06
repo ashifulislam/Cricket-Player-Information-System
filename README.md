@@ -8,7 +8,7 @@ like that live score, schedule, news, series, stories, teams, videos, photos, ra
 A user can see the batsman information and bowling information.
 A user can also see the batsman and bowler's statistics.
 ## Prerequisites
-It is a c project. As a result to complete my projects i needed to use Code Blocks IDE.
+It is a project that was created by c programming language. As a result to complete my projects i needed to use Code Blocks IDE.
 ## Installation
 1. First of all i was going to official code blocks website that is http://www.codeblocks.org/ 
 2. Next step was going to download options
