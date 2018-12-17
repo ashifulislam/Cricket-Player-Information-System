@@ -16,9 +16,11 @@ It is a project that was created by c programming language. As a result to compl
 4. Finally I discovered and verified all the installment process and accept license aggrement
 ## Usage
 1. Go to home page
-2. See the batsman and bowler information from "batsman and bowler profile" option
-3. See the player's statistics from "See player statistics" option
-4. Search any player by his name or team name from "Player search" option
+2. See the batsman information from "batsman profile" option
+3. See the bowler  information from "bowler profile" option
+4. See the player's statistics from "See player statistics" option
+4. Search any player by his name from "Player search" option
+5. Search any player by his team name from "Player search" option
 5. Give comments after seeing information from "Comments" option
 ## History
 I completed this project when I was in 3rd semester.
