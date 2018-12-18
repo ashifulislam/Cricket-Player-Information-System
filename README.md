@@ -21,7 +21,7 @@ It is a project that was created by c programming language. As a result to compl
 4. See the player's statistics from "See player statistics" option
 4. Search any player by his name from "Player search" option
 5. Search any player by his team name from "Player search" option
-5. Give comments after seeing information from "Comments" option
+5. Give comments after seeing player information from "Comments" option
 ## History
 I completed this project when I was in 3rd semester.
 To complete my project I took 4 month.
