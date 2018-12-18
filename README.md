@@ -40,6 +40,8 @@ Many new features will be added in this project:
 This features are already exist in some cricket software, Such as Cricbuzz. But in future I will develop this project and added an unique feature that is player rating and review.
 ## License
 Not allowed.
+## Deployment
+Not included.
 ## Acknowlegement
 I would like to express my profound appreciation to all those who provided me with the possibility to complete this project. Special gratitude I give to our Ms. Nusrat Jahan madam, whose contribution in stimulating suggestions and encouragement, helped me to commensurate my project.
 ## Contributing codes
