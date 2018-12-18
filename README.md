@@ -47,6 +47,8 @@ Not included.
 ## Contributing codes
 Any and all contributions to the project are welcome.
 Cricket Player Informationis used across the world primarily by organizations with a sports purpose so you can have real impact!
+## Versioning
+Not included in this project.
 
 
 
