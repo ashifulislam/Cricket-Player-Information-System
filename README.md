@@ -23,9 +23,9 @@ It is a project that was created by c programming language. As a result to compl
 5. Search any player by his team name from "Player search" option
 5. Give comments after seeing player information from "Comments" option
 ## History
-I completed this project when I was in 3rd semester.
-To complete my project I took 4 month.
-I did not need any cost to complete my project.
+ I completed this project when I was in 3rd semester.
+ To complete my project I took 4 month.
+ I did not need any cost to complete my project.
 ## Contributing codes
 Any and all contributions to the project are welcome.
 Cricket Player Informationis used across the world primarily by organizations with a sports purpose so you can have real impact!
