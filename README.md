@@ -8,12 +8,13 @@ like that live score, schedule, news, series, stories, teams, videos, photos, ra
 A user can see the batsman information and bowling information.
 A user can also see the batsman and bowler's statistics.
 ## Prerequisites
-It is a project that was created by c programming language. As a result to complete my projects i needed to use Code Blocks IDE.
+It is a project that was created by c programming language. As a result to complete this projects an crucial IDE was needed
+that is Code Blocks.
 ## Installation
-1. First of all I was going to official code blocks website that is http://www.codeblocks.org/ 
+1. First of all you need to going the official code blocks website that is http://www.codeblocks.org/ 
 2. Next step was going to download options
-3. Then I had completed download code blocks for based my computer configuration
-4. Finally I discovered and verified all the installment process and accept license aggrement
+3. Then you need to completed download code blocks for based my computer configuration
+4. Finally you have to discovered and verified all the installment process and accept license aggrement
 ## Usage
 1. Go to home page
 2. See the batsman information from "batsman profile" option
@@ -23,9 +24,8 @@ It is a project that was created by c programming language. As a result to compl
 5. Search any player by his team name from "Player search" option
 5. Give comments after seeing player information from "Comments" option
 ## History
- I completed this project when I was in 3rd semester.
- To complete my project I took 4 month.
- I did not need any cost to complete my project.
+ This projet was took 4 month its completion.
+ This project has not taken any cost to meet it's expectation and requirements.
 ## Scope
 The scope of this document is to describe the Cricket player information System. In future this project will be developed by java programming language. 
 Many new features will be added in this project:
