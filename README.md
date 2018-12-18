@@ -11,7 +11,7 @@ A user can also see the batsman and bowler's statistics.
 It is a project that was created by c programming language. As a result to complete this projects an crucial IDE was needed
 that is Code Blocks.
 ## Installation
-1. First of all you need to going the official code blocks website that is http://www.codeblocks.org/ 
+1. First of all you need to going to the official code blocks website that is http://www.codeblocks.org/ 
 2. Next step was going to download options
 3. Then you need to completed download code blocks for based my computer configuration
 4. Finally you have to discovered and verified all the installment process and accept license aggrement
