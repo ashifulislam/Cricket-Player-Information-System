@@ -37,7 +37,7 @@ Many new features will be added in this project:
 	 Photos.
 	 Videos.
 	 Ranking and more.
-This features are already exist in some cricket software, Such as Cricbuzz. But in future I will develop my project and added an unique feature that is player rating and review.
+This features are already exist in some cricket software, Such as Cricbuzz. But in future I will develop this project and added an unique feature that is player rating and review.
 
 ## Contributing codes
 Any and all contributions to the project are welcome.
