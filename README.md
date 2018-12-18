@@ -26,6 +26,19 @@ It is a project that was created by c programming language. As a result to compl
  I completed this project when I was in 3rd semester.
  To complete my project I took 4 month.
  I did not need any cost to complete my project.
+## Scope
+The scope of this document is to describe the Cricket player information System. In future this project will be developed by java programming language. 
+Many new features will be added in this project:
+	Live score.
+	Schedule.
+	News.
+	Stories.
+	Upcoming matches.
+	Photos.
+	Videos.
+	Ranking and more.
+This features are already exist in some cricket software, Such as Cricbuzz. But in future I will develop my project and added an unique feature that is player rating and review.
+
 ## Contributing codes
 Any and all contributions to the project are welcome.
 Cricket Player Informationis used across the world primarily by organizations with a sports purpose so you can have real impact!
